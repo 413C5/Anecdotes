@@ -1,3 +1,19 @@
+# Anecdotes App
+
+Anecdotes is an app that shares short, interesting stories from software engineering, where users can click a button to see a random anecdote and vote for their favourite one. The application displays the anecdote with the most votes.
+
+# Try out this app:
+
+You can experience the app by clicking [this link](https://anecdotes.onrender.com).
+
+# Project Details:
+
+This project is part of the [fsopen2023](https://github.com/413C5/fsopen2023/tree/main/part1/anecdotes) repository, specifically located in the anecdotes directory. The creation of the standalone "anecdotes" repository is specifically for hosting on render.com.
+
+Feel free to explore the [fsopen2023](https://github.com/413C5/fsopen2023) repository to understand its broader context and discover related projects.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
