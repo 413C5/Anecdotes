@@ -4,7 +4,7 @@ Anecdotes is an app that shares short, interesting stories from software enginee
 
 # Try out this app:
 
-You can experience the app by clicking [this link](https://anecdotes.onrender.com).
+You can experience the app by clicking [this link](https://anecdotes-lw2q.onrender.com).
 
 # Project Details:
 
